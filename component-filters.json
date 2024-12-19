@@ -15,8 +15,7 @@
       "hero",
       "cards",
       "columns",
-      "fragment",
-      "carousel"
+      "fragment"
     ]
   },
   {
@@ -39,9 +38,5 @@
       "button",
       "title"
     ]
-  },
-  {
-    "id": "carousel",
-    "components": ["carousel-item", "image"]
   }
 ]
