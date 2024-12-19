@@ -3,7 +3,7 @@
     "/content/eds-eu-081/:/",
     "/content/eds-eu-081/configuration:/.helix/config.json",
     "/content/eds-eu-081/metadata:/metadata.json",
-    "/content/eds-eu-081/api/:/api/testimonial.json"
+    "/content/eds-eu-081/api/testimonial:/api/testimonial.json"
   ],
   "includes": [
     "/content/eds-eu-081/"
